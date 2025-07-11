@@ -46,7 +46,15 @@ The application handles both new and returning users efficiently. New users who 
 - Routes are managed with `BrowserRouter` for clean URLs and smooth navigation
 - Conditional routes based on authentication and profile completion
 
-  Wishlist and Cart is managed using 
+  Wishlist and Cart is managed using Redux toolkit
+
+## CSS and Styling
+
+- Tailwind CSS is used throughout the application for utility-first, consistent, and responsive design.
+- Custom gradients, hover effects, and transitions enhance the user interface and user experience.
+- Layouts are fully responsive, using grid and flex utilities to adapt seamlessly across mobile and desktop screens.
+- Buttons, cards, and key UI elements are styled with Tailwind's theme classes to ensure visual consistency and accessibility.
+- Dark backgrounds with vibrant accent colors are used to highlight CTAs and navigation elements.
 
 ## Technologies Used
 
