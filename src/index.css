@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  box-sizing: border-box;
+} 
+body {
+  min-height: 100vh;
+  max-width: 100%;
+  color: black;
+  font-family: monospace;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.categoriesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 90vw;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+
+.categoryButton {
+  height: 300px;
+  width: 300px;
+  cursor: pointer;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: max(1.5vw, 16px);
+}
+
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 90vw;
+  justify-content: center;
+  margin: 20px auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.productButton {
+  cursor: pointer;
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+  font-size: 2vw;
+}
+
+
+.Navbar {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #222;
+  margin: 0;
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: max(2rem, 16px);
+}
+
+.LSButton,
+.cartButton,
+.wishButton {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.addToCartButton,
+.addToWishListButton {
+  cursor: pointer;
+  margin: 10px;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+}
+
+.plusMinusBtns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FF9900;
+  cursor: pointer;
+  border: 2px solid #FF9900;
+  width: 20px;
+  height: 25px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 1.4rem;
+} */
