@@ -1,4 +1,4 @@
-# E-Commerce Website
+# FlashMart - an E-Commerce Website
 
 This project is a full-featured eCommerce web application built using React and Firebase. It includes user authentication (email/password and Google), profile management, product browsing, a shopping cart, and a wishlist system. Redux Toolkit is used for state management, and React Router DOM is used for seamless client-side routing.
 
