@@ -1,5 +1,6 @@
 # FlashMart - an E-Commerce Website
 You can access this project at https://pranavsflashmart.netlify.app/
+
 This project is a full-featured eCommerce web application built using React and Firebase. It includes user authentication (email/password and Google), profile management, product browsing, a shopping cart, and a wishlist system. Redux Toolkit is used for state management, and React Router DOM is used for seamless client-side routing.
 
 The application handles both new and returning users efficiently. New users who sign in with Google are redirected to complete their profile details, while returning users with existing profiles are taken directly to the homepage. All user data is securely stored using Firebase services.
